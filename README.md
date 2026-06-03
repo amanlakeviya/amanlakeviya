@@ -16,7 +16,7 @@ I enjoy building AI-powered applications, automation workflows, and web-based pr
 
 ## Tech Stack
 
-HTML • CSS • JavaScript • GitHub • AI Tools • Prompt Engineering
+HTML • CSS • JavaScript •Java • Python • GitHub • AI Tools • Prompt Engineering
 
 ## Featured Projects
 
